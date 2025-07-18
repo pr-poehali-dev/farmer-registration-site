@@ -61,6 +61,16 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Фермерские цвета
+				farm: {
+					brown: '#8B4513',
+					'light-brown': '#D2691E',
+					cream: '#FFFAF0',
+					'warm-brown': '#CD853F',
+					'dark-brown': '#654321',
+					sage: '#87A96B',
+					wheat: '#F5DEB3',
 				}
 			},
 			borderRadius: {
